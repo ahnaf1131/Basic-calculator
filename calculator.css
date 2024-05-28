@@ -1,0 +1,25 @@
+body{
+    font-size: xx-large;
+    font-family:  sans-serif;
+    font-weight: bold;
+
+}
+
+table{
+    border: 20cm;
+}
+#calculator-container{
+    margin:auto;
+    margin-top: 100px; 
+}
+td,th{
+    background-color:antiquewhite ;
+    border: 2px solid black;
+    border-radius: 20%;
+    text-align: center;
+    padding: 10px;
+    
+}
+td:hover{
+    background-color: rosybrown;
+}
